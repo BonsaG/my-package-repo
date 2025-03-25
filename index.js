@@ -1,11 +1,28 @@
+const { get } = require("mongoose");
 class user {
-  constructor() {
-    this.message = "Hello World";
-    console.log(this.message);
-  }
-  getusername() {}
+  message;
+  username;
+}
+constructor();
+{
+  this.message = "Hello World";
+  console.log(this.message);
+}
+setusername(name);
+{
+  this.username = name;
+}
+getusername();
+{
+  return this.username;
+}
 
-  getuserstatus() {}
+getusername();
+{
+}
+
+getuserstatus();
+{
 }
 
 Module.exports = user;

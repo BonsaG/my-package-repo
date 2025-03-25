@@ -1,6 +1,6 @@
 {
-  "name": "my-packages",
-  "version": "1.0.0",
+  "name": "@bonsag/my-packages",
+  "version": "1.1.1",
   "description": "mydemo package",
   "main": "index.js",
   "scripts": {
